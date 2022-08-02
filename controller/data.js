@@ -5,7 +5,7 @@ const get = (req,res) => {
           "id": 1,
           "date": "june 27, 2022",
           "title": " Aliya Bhatt and Ranbir Kapoor Expecting their firsht child",
-          "Image": "https://images.indianexpress.com/2022/06/ralia.jpg",
+          "Image": "https://i.ytimg.com/vi/Ma3Y-qekYos/maxresdefault.jpg",
           "category": "Bollywood",
           "description": "Alia Bhatt and Ranbir Kapoor are expecting their first child. Taking to Instagram on Monday morning, Alia revealed she was pregnant by sharing a photo of her scan. The big news left their fans ecstatic and congratulations were in order as millions flooded the comments section to wish the couple. Alia and Ranbir tied the knot in 14 April this year.The couple had an intimate wedding celebration at home in the presence of family and close friends. Needless to say, the news has probably left Alia and Ranbir's family, friends and fans over the moon. Taking to Instagram, Alia's pregnancy announcement photo featured husband Ranbir Kapoor in the frame. In the photo, Alia can be seen lying on the hospital bed, with the lovebirds looking at the screen. She captioned the photo, Our baby ….. coming soon.  While the first photo was of Alia and Ranbir, the second picture featured a lion, a lioness and their cub. Probably a photo that Ranbir clicked on one of the many Safari trips he took with wife Alia Bhatt prior to their wedding.Recently, during the trailer launch of Shamshera, Ranbir spoke about Alia's presence in his life while referring to his famous movie dialogue. Revealing Alia Bhatt’s reaction to Shamshera’s trailer, Ranbir Kapoor said, “Alia had seen the teaser and loved it. She is in London right now, so once she wakes up she will see the trailer.He further added,Films aside, this is a big year for me as I even got married. I always said that we need tangdi kebab, and not dal chawal in life. But with experience I can say that nothing better than Dal Chawal. Alia is the tadka in dal chawal, the achar with it, she is everything and I could not have asked for a better partner in my life.Here's wishing Alia and Ranbir a hearty congratulations."
         },
@@ -13,7 +13,7 @@ const get = (req,res) => {
           "id": 2,
           "date": "January 28, 2022",
           "title": "Steven Spielberg had introduced Aamir Khan to Tom Hanks as ‘James Cameron of India’; Tom revealed that he has seen 3 Idiots as many as 3 times!",
-          "Image": "https://stat1.bollywoodhungama.in/wp-content/uploads/2022/05/Steven-Spielberg-had-introduced-Aamir-Khan-to-Tom-Hanks-as-%E2%80%98James-Cameron-of-India%E2%80%99-Tom-revealed-that-he-has-seen-3-Idiots-as-many-as-3-times-2.jpg",
+          "Image": "https://images.news18.com/ibnlive/uploads/2021/12/studio_project-9-18-1-1-16402431994x3.jpg",
           "category": "Bollywood",
           "description": "It has recently come to light that Tom Hanks is an admirer of Aamir Khan as well. Aamir Khan happened to meet him somewhere in 2014 or 2015 when he flew down to Germany to have a meeting with acclaimed filmmaker Steven Spielberg. It so happened that Aamir Khan wished to remake Forrest Gump (1994) whose rights rested with its director Robert Zemeckis. Robert, however, refused to meet Aamir. Aamir tried a lot to set up the meeting but in vain. Left with no choice, he decided to meet Steven Spielberg, who was then shooting for his film Bridge Of Spies (2015). Interestingly, the film starred Tom Hanks, who also starred in Forrest Gump and whose role Aamir wanted to essay in the remake. Robert Zemeckis held Spielberg in high regard. As a result, Aamir felt that if Steven Spielberg would convince Robert, the latter would part with the remake rights of Forrest Gump. Aamir Khan reached the sets of Bridge Of Spies and met Steven Spielberg along with Tom Hanks. Steven Spielberg introduced Aamir to Tom Hanks as ‘James Cameron of India’. This is because according to the filmmaker, just like how James Cameron breaks his own box office records, so does Aamir! Tom Hanks, however, made it clear that he knows Aamir very well. He also admitted that he loved Aamir’s 2009 film 3 Idiots and that he has seen it as many as 3 times! Aamir Khan then told Steven Spielberg about his predicament about Robert Zemeckis. To which Spielberg told Aamir that his relationship with Zemeckis was like that of a father and a son. And like most fathers and sons, they don’t always get along well! He also revealed to Aamir that Robert Zemeckis was refusing to meet the superstar as he didn’t want to say ‘no’ to Aamir’s face. Nevertheless, Aamir Khan kept on trying. At last, he won the remake rights. The remake of Forrest Gump came to be known as Laal Singh Chaddha. It is all set to release on August 11, 2022, and is one of the most awaited films of the year."
         },
@@ -22,7 +22,7 @@ const get = (req,res) => {
           "id": 3,
           "date": "May 23, 2022",
           "title": "FAKE photo of Shah Rukh Khan, Salman Khan and Hrithik Roshan from Karan Johar's 50th birthday bash goes viral on the internet",
-          "Image": "https://static.toiimg.com/thumb/msid-91868025,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-22362/91868025.jpg",
+          "Image": "https://superstarsbio.com/wp-content/uploads/2020/03/toofan-poter.jpg",
           "category": "Bollywood",
           "description": "Karan Johar’s 50th birthday bash was a star-studded affair with the who’s who of Bollywood making their presence felt. Pictures and videos from the grand party are still doing the rounds on social media. playing near you in IMAX then this is the next best way to watch it. Fucken @RRRMovie is insane.When the team of RRR responded to thank Oswalt, he replied, “You guys are out of your f**king minds, you should not be allowed to make films, and I can’t wait to see what you do next.RR is a period drama starring Ram Charan and NTR Jr and follows two revolutionaries - Alluri Sitarama Raju and Komaram Bheem as they go up against the British rule in India. The film was released on March 24 this year. Since then, it has garnered significant buzz. It also kickstarted a debate on the way pan-India films are perceived. These Bollywood superstars coming together for a picture like this is surely a sight for sore eyes. However, much to the disappointment of their fans, the photo is an edited one and is clearly a fake."
         },
@@ -30,7 +30,7 @@ const get = (req,res) => {
           "id": 4,
           "date": "January 23, 2022",
           "title": "Shah Rukh Khan, Salman Khan and Madhuri Dixit's selfie has fans recalling Hum Tumhare Hai Sanam",
-          "Image": "https://th.bing.com/th/id/OIP.jl_1HMS7qyCQVvzHay3n-wHaHG?w=250&h=250&c=7&rs=1&o=5&dpr=1.25&pid=1.1",
+          "Image": "https://www.tollywood.net/wp-content/uploads/2021/12/Allu-Arjun-Pushpa-trailer-launch-event-in-Chennai-tomorrow.jpg",
           "category": "Bollywood",
           "description": "Talking to Bollywood Hungama about her past films, she said, “I was not happy. Sometimes you work against your wishes, just because you have to keep working. When the thought of out of sight is out of mind takes over, you don't have many choices. Today it is quite easy for me to sit and say that instead of doing those films I should have learned kung fu in China or anything else. Today it is easy for me to say that. But it wasn't the same 6-7 years ago. Back then I was just trying to understand myself and wondering what happened. My first film did well and everyone even appreciated it. But why weren't certain choices given to me after that? Then I get the answer that you should do the kind of films which have songs, and if the song is a hit, the film also works. But I didn't think that way. It worked for somebody, but may not work for me. But you still want to try because somebody is saying, either someone who is experienced or someone from your team. They come from a  place where they mean well to you.She further said, “Then you are told that only when you work with certain names, and that you need to get more films with the really big stars to be out there. Now, that may also be true. But I did that, but it didn't work for me. One of them had a very good role also. I am talking about Kaabil but unfortunately, that was also like ‘aapka role usme utna hi tha (you had a small role). But I could not figure out why people were thinking like that. Why aren't they thinking about how I performed in that film. We often talk about films made outside of our country where big stars do small roles in big films. Anyway, it is easy to talk about this today. But back then it sounded like you are complaining about every trivial thing. It is better to take a breather and reshuffle everything."
         },
@@ -46,7 +46,7 @@ const get = (req,res) => {
           "id": 6,
           "date": "January 23, 2022",
           "title": "It's official! Hrithik Roshan introduced Saba Azad as his girlfriend at Karan Johar's bash",
-          "Image": "https://filmfare.wwmindia.com/content/2022/may/hrithikroshansabaazad41653633774.jpg",
+          "Image": "https://img.youtube.com/vi/55XTHZtWtH4/hqdefault.jpg",
           "category": "Bollywood",
           "description": "Talks of Hrithik Roshan and Saba Azad’s rumoured relationship have been doing the rounds for a while. But now, the two have made it red carpet official by appearing together at Karan Johar's grand birthday bash. Hrithik and Saba arrived at the party on theme in their black outfits and made for a stunning pair. Turns out, after gracing the red carpet, Hrithik also introduced Saba Azad as his girlfriend to fellow attendeesAs per reports on a leading news portal, Hrithik Roshan was by Saba Azad's side the whole evening and went on to introduce her as his girlfriend to guests present at the bash. A source told the portal, Hrithik and Saba “didn’t leave each other’s side and were holding hands throughout the party.he couple (now that we can finally call them that) set the red carpet on fire as they posed for paps. Later, actress Preity Zinta also shared a picture with Hrithik and Saba. Take a look at their unmissable picFor the uninitiated, Hrithik Roshan and Saba Azad have been spending a lot of time together and needless to say, they’ve been the talk of the town. While they are yet to make an announcement to confirm their relationship, it cannot get more obvious than this.Recently, Hrithik and Saba also attended a birthday dinner together with the Roshan family. Hrithik’s father Rakesh Roshan and mother Pinkie were present at the intimate family gathering. Meanwhile, Karan Johar’s bash which took place in Mumbai on May 25 was attended by the most popular Bollywood stars including Aishwarya Rai Bachchan and Abhishek Bachchan, Katrina Kaif and Vicky Kaushal, Anushka Sharma, Ranveer Singh, Ranbir Kapoor and others."
         },
@@ -223,17 +223,17 @@ const get = (req,res) => {
       {
         "id": 26,
         "date": "January 23, 2022",
-        "title": "5 iPhone deals you can grab right now under Rs 60,000 ",
-        "Image": "https://images.indianexpress.com/2022/05/iPhone-12-Express-Photo-1.jpg",
+        "title": "BlockChain ",
+        "Image": "https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2018/04/clockchain-7.png",
         "category": "Technology",
-        "description": "Whether its for the seamless ecosystem or for taking a break from Android, if you’re looking to buy a new iPhone without spending too much, you still have a number of options to consider. From the compact iPhone SE Gen-3 to the iPhone 12, here are five iPhone deals you can grab right now for under Rs 60,000. Note that all the prices mentioned below and without any hidden bank offers, discounts or exchange bonuses. You can, however, use any available offers to further bring down the price of the models listed below.The third-generation iPhone SE 2022 64GB is available on Amazon for Rs 41,900. The new iPhone SE 2022 Gen-3, the latest in the series, comes with the A15 Bionic 5G chip and the rest of the phone is largely the same as the iPhone SE 2020.You get the same old design including the large top and bottom bezels, single rear camera and single front camera with TouchID for security. If you want the A15 Bionic chip without spending much, you can consider the iPhone SE 3. You can also consider the 128GB variant for Rs 46,900."
+        "description": "a blockchain is a digital ever-growing list of data records. Such a list is comprised of many blocks of data, which are organized in chronological order and are linked and secured by cryptographic proofs"
       },
       
       {
         "id": 27,
         "date": "January 23, 2022",
-        "title": "Instagram launches exclusive ‘1 minute music’ tracks for Reels ",
-        "Image": "https://images.indianexpress.com/2021/12/Instagram-AP-1.jpg",
+        "title": "Artificial Intelligence and Machine Learinig ",
+        "Image": "https://static.javatpoint.com/tutorial/machine-learning/images/ai-vs-machine-learning.png",
         "category": "Technology",
         "description": "Instagram has launched a new exclusive ‘1 Minute Music’ track for its Reels, which is a set of music tracks and videos, exclusively available on its platform.The new 1-minute music set includes music from 200 artists across India, including the likes of Dhvani Bhanushali, Neeti Mohan, Shaan, Himanshi Khurana, Anirudh and GV Prakaash Kumar. The Meta-owned platform believes that will make your Instagram content more entertaining, and inspire other artists to release their one-minute music on the platform as well.“Music is a catalyst for trends on Instagram today. In fact, Reels is becoming the platform for people to discover music and artists too. With ‘1 Minute Music’, we’re now giving people access to an exclusive set of tracks they could use to make their reels more entertaining. We’re also hoping this platform serves as a paradigm for established and emerging artists to share their own music, and create their own videos, all on Reels,” said Paras Sharma, Director, Content & Community Partnerships, Facebook India (Meta).The music will be accompanied by music videos, which too will be available exclusively on Instagram.  Music distribution and artist services company, Believe, has worked with Instagram for this association"
       },
@@ -249,47 +249,47 @@ const get = (req,res) => {
         "id": 29,
         "date": "January 23, 2022",
         "title": " Google hit with fresh UK investigation over ad tech dominance",
-        "Image": "https://images.indianexpress.com/2022/05/Google-reuters-1.jpg",
+        "Image": "https://www.zdnet.com/a/img/resize/cfc4b83ef647bebfba629ae1f5d215d412895eba/2020/09/28/6b225a1a-381a-4ceb-b13c-d2d314d41bd7/what-is-the-iot-everything-you-need-to-k-5f6cc13d5f60de4b41b7f3d4-1-sep-28-2020-16-19-38-poster.jpg?auto=webp&fit=cover&height=482&width=856",
         "category": "Technology",
         "description": "The UK’s antitrust watchdog started a new investigation of Alphabet Inc.’s Google, over suspicions it may have abused its dominant position across its ad tech that goes to the heart of the tech giant’s business model.The move by the Competition and Markets Authority opens a fresh front in its regulatory tussle with Google. The CMA said it was concerned Google sought to illegally favor its own ad exchange services, while taking steps to exclude the services offered by rivals.“Weakening competition in this area could reduce the ad revenues of publishers, who may be forced to compromise the quality of their content to cut costs or put their content behind pay walls,” said Andrea Coscelli, the CMA’s Chief Executive Officer.Watchdogs around the world have started to home in on the huge power that firms such as Google and Meta’s Facebook wield over ad markets — striking at the heart of the tech giants’ money making machines. Google faces a separate probe by the CMA into possible collusion over the way it operates online display advertising services.The CMA has been examining the way Google buys and sells advertising since at least 2020, saying that its advertising stack is a potential conflict of interest. It’s called for powers that would even allow for a structural changes."
       },
       {
         "id": 30,
         "date": "January 23, 2022",
-        "title": "Realme GT Neo 3 get a special Naruto Edition: All you need to know ",
-        "Image": "https://images.indianexpress.com/2022/05/Realme-Naruto-edition-1.jpg",
+        "title": "Cryptography ",
+        "Image": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/05/PROMOCryptographyHandbook_Ch5.5eceabbf11917.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
         "category": "Technology",
-        "description": "Realme is no stranger to launching special edition devices targeted at anime fans out there. The brand’s GT Neo 2 smartphone came out with a limited Dragon Ball edition complete with the titular character Goku’s colours and more. Now, the company has revealed yet another anime-edition phone.The Realme GT Neo Naruto Edition phone is based on the Naruto-series. Taking elements from both Naruto and the sequel series Naruto: Shippuden, the phone’s design takes cues from the signature black and orange jacket worn by the show’s lead character Naruto Uzumaki, as well as the silver headband most ninja in the show wear, complete with the Konoha seal.However, that’s just the device. Realme has also thrown in other themed goodies into the package, including a neat-looking Naruto-themed case, a black and orange charging adapter and a black USB type-C to type-C cable to go with it. Additionally, there is also a Naruto-themed SIM-ejector pin and a 10,000mAh power bank.Asides from the aesthetics, the phone itself is a regular Realme GT Neo 3 (the 150W fast charging variant) and includes the same hardware as its standard counterpart. This includes a MediaTek Dimensity 8100 chip. A 6.7-inch AMOLED display with 120Hz HDR10+ and an under-display fingerprint scanner. The single storage variant will also feature 12GB RAM and 256GB UFS 3.1 storage."
+        "description": "Cryptography is the science of protecting information by transforming it into a secure format. This process, called encryption, has been used for centuries to prevent handwritten messages from being read by unintended recipients"
       },
       {
         "id": 31,
         "date": "January 23, 2022",
-        "title": "Tips to do a perfect headstand",
-        "Image": "https://images.indianexpress.com/2020/04/headstand-1200.jpg",
+        "title": "Sweat now shine later",
+        "Image": "https://cdn.mos.cms.futurecdn.net/KLZwUWe4JwyyXY7pV7CpaU.jpg",
         "category": "Fitness",
         "description": "Referred to as the ‘king’ of asanas, headstand is an advanced yoga inversion. For beginners, it might seem that a headstand turns the world upside down. However, Anshuka Parwani, the celebrity yoga trainer, shared an Instagram post saying, “It looks intimidating, but once you build up to it, it becomes so easy. If you have never done one before, please make sure you practice with a certified teacher first. The procedure, as laid down by the yoga trainer is as follows Start with Vajrasana (diamond pose) and grab opposite elbows.Interlock your fingers and reduce the space between your elbows.Make sure your shoulders are nice and protracted and raise your knees.Activate your core, walk in and raise one knee to your chest and then the other and hold this position.Stay for a few seconds and build your strength.Extend one leg all the way to the top.When you feel more confident, extend the other leg.”"
       },
       {
         "id": 32,
         "date": "January 23, 2022",
-        "title": "Bhagyashree shares the many benefits of jumping on a trampoline ",
-        "Image": "https://images.indianexpress.com/2022/03/bhagyashree-1200-new.jpg",
+        "title": "Balance ",
+        "Image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F35%2F2022%2F06%2F21%2FPlyometrics-GettyImages-1278403727.jpg",
         "category": "Fitness",
         "description": "There’s no better way to keep yourself fit than to be physically active. From yoga to gym workouts — you can choose from a number of exercises to keep your body strong and agile. But, your workouts don’t always have to be boring and monotonous. A little bit of fun can make them interesting while providing you endless health and fitness benefits at the same time.As such, have you ever thought that jumping on a trampoline could be beneficial for you? Bhagyashree, who regularly shares essential health and fitness tips, recently took to Instagram to talk about her “new toy” — the trampoline.According to Bhagyashree, jumping on a trampoline is also great for pelvic strength. “As one gets older, the pelvic muscles loosen and chances of urinary incontinence increase. Jumping without shock impact on your knees will help in building up your pelvic strength too.uilding up your pelvic strength too.”If you are a beginner, start with jumping for three to four minutes. As you progress, increase by two minutes every week, she suggested"
       },
       {
         "id": 33,
         "date": "January 23, 2022",
-        "title": " Asanas and breathing exercises to enhance mood, boost energy levels",
-        "Image": "https://images.indianexpress.com/2022/04/GettyImages-yoga-breathing-1200.jpg",
+        "title": " Aerobic",
+        "Image": "https://femina.wwmindia.com/content/2020/jun/aerobic-exercise-to1591015669.jpg",
         "category": "Fitness",
-        "description": "Stress has become a part of life, but instead of living with it, we must find the tools with which to combat it. Yoga is one such tool that can deal with physical, emotional and mental issues caused by stress, and give you a better perspective of life.According to Samiksha Shetty, a certified yoga educator and the founder of Moon Village Cafe, yoga postures (asanas), breathwork (Pranayama) and meditation induce a sense of calm and relaxation from within, and if you are looking for how you can de-stress, this is what you need to know.According to Samiksha Shetty, a certified yoga educator and the founder of Moon Village Cafe, yoga postures (asanas), breathwork (Pranayama) and meditation induce a sense of calm and relaxation from within, and if you are looking for how you can de-stress, this is what you need to know.“In yoga, we use movement and breath to release stuck energy along the spine and throughout the body. The mind-body connection created in yoga facilitates change at a cellular level. Our nervous systems can rewire by retraining psychological or emotional triggers that set off our flight-or-fight response,” she explains."
+        "description": " Aerobic exercise provides cardiovascular conditioning. The term aerobic actually means with oxygen, which means that breathing controls the amount of oxygen that can make it to the muscles to help them burn fuel and move."
       },
       {
         "id": 34,
         "date": "January 23, 2022",
         "title": "Watch: Virat Kohli impresses with his powerful ‘cleans day’ workout ",
-        "Image": "https://images.indianexpress.com/2022/05/virat-kohli_1200_insta.jpg",
+        "Image": "https://cdn.shopify.com/s/files/1/0062/5532/files/i_stock_male_sprinter_image_xlg_size_6eec9ade-abd6-4641-af37-dd92b0680a5d.jpg?v=1523547218",
         "category": "Fitness",
         "description": "Consistency, patience, and discipline are extremely essential to reaching one’s fitness goals. If you are willing to take on the challenge, then you might want to learn some power moves from none other than Virat Kohli.The batsman, a fitness buff, often takes to social media to share his impressive workout routines. And recently, he dropped another video showcasing a power-packed workout. He also explained that power clean helps to increase “muscular coordination, leading to better power output, and enhancing overall athletic capacity”. “Such kinds of explosive compound movements yield great results not only in power and force output but also kinesthetic awareness, and neurological adaptations, which is required by athletes to train harder and run faster,” the expert mentioned.It is best to perform the exercise under guidance, especially for beginners. Also, if one has back, shoulders, or lower body joint niggles, avoid doing the power clean. During movement, if there is any pain or discomfort, it is best to discontinue and do basic stretches."
       },
@@ -298,7 +298,7 @@ const get = (req,res) => {
         "id": 35,
         "date": "January 23, 2022",
         "title": "Should yoga be done on an empty stomach? Here’s what experts say ",
-        "Image": "https://images.indianexpress.com/2022/04/GettyImages-yoga-1200.jpg",
+        "Image": "https://post.healthline.com/wp-content/uploads/2019/10/1296x728-body1-1296x728.jpg",
         "category": "Fitness",
         "description": "o one will understand you or your body the way you do so make sure you listen to it, protect it, do good things for it and celebrate it,” they saidYoga is now the preferred choice of many, to stay fit, active and agile. It helps in numerous ways, be it in improving flexibility, strength and posture, or reducing stress and providing a sense of calm. Nutrition and diet are an important part of fitness along with physical exercise. On that account, it becomes necessary to understand whether yoga should be done on an empty stomach or notAnshuka Parwani, a yoga expert, and Pooja Makhija, a nutritionist took to Instagram to talk about this dilemma that many face.Pooja believes that it’s important to have something before starting with your exercise in the morning. It should be quite light and not too heavy to kickstart your metabolism.While both have contrasting opinions, they strongly agreed and upheld the point that you know your body better than anyone else. Hence, it’s important to observe and understand what your body is trying to tell you and do as one may deem fit. They said, if practising yoga on an empty stomach is suiting you better, do that. On the other hand, if it feels like you need something to get a better start, follow that as a part of your routine.    "
       },
@@ -323,7 +323,7 @@ const get = (req,res) => {
         "id": 38,
         "date": "January 23, 2022",
         "title": "Exercise Reduces Risk of Type 2 Diabetes, Studies Show ",
-        "Image": "https://www.verywellfit.com/thmb/3MvvjaqTvCD5A7YBCj51B7KR6ec=/800x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/exerciseCecilie_Arcurs-9b4222509db94b4ba991e86217bdc542.jpg",
+        "Image": "https://femina.wwmindia.com/content/2020/jun/aerobic-exercise-to1591015669.jpg",
         "category": "Fitness",
         "description": "Being physically active can help reduce the risk of developing type 2 diabetes. A recent study in Diabetes Care found that women who get more steps have a lower risk of developing diabetes, compared to women who are more sedentary.1And a study in the journal Metabolites found that men who are more active have a lower risk of developing type 2 diabetes compared to men who are more sedentary.2 It seems that physical activity significantly changes the body’s metabolite profile, and many of these changes are associated with a lower risk of type 2 diabetes, says Maria Lankinen, PhD, research scientist, Institute of Public Health and Clinical Nutrition at the University of Eastern Finland, and one of the researchers on the study published in Metabolites. Increased physical activity also improved insulin secretion.The study published in Diabetes Care focused on 4,838 older women (median age 78.9) without diabetes, who were followed for up to 6.9 years. Their steps were monitored by accelerometers to account for the number of steps and the intensity of steps, which were labeled as light-intensity or moderate- to vigorous-intensity.For diabetes among older adults, our findings indicate that moderate- to vigorous-intensity steps were more strongly associated with a lower risk of diabetes than light-intensity steps, adds John Bellettiere, PhD, an assistant professor of family medicine and public health at UC San Diego, and a co-author on the study."
       },
